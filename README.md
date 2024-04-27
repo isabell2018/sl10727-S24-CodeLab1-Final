@@ -1,5 +1,2 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
-
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+# Code Lab 1 Final
+Using a 2D array, scriptable objects, data structure with shuffle functions, singleton, and JSON files, this game project recreated a popular game "The Royal War Chess."
